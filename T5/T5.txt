@@ -1,0 +1,12 @@
+Organización
+
+La organización y administración de un centro de cómputo, la organización
+se puede difinir como un proceso para facilitar el funcionamiento y manejo de este,
+seleccionando las actividades que se llevaran a cabo, asignándolas y agrupándolas
+a donde correspondan y haci poder formar una estructura.
+
+Ejemplo:
+
+De las tareas que se tienen en en centro de computo, dividirlas en todos los encargados
+para que cada uno de ellos tenga una actividad y haci lograr una estructura lo mas
+ordenada posoble y pareja. 
